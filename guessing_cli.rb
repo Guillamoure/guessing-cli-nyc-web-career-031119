@@ -21,6 +21,7 @@ def run_guessing_game
     elsif rn != guess && guess != "exit"
       puts "The computer guessed #{rn}."
       
+      
     
     end 
     
